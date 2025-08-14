@@ -154,7 +154,7 @@ This project is licensed under the CC0-1.0 License - see the [LICENSE](LICENSE) 
 
 - **Documentation**: [README.md](./README.md)
 - **Issues**: [GitHub Issues](https://github.com/ahmed86-star/CompAI/issues)
-- **Email**: programming079@gmail.com
+
 
 ## 🙏 Acknowledgments
 
